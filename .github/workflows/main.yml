@@ -24,7 +24,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: kwangsing3/github-profilemd-Generater@master
         env: # default use \${{ secrets.GITHUB_TOKEN }}, you can change to your personal access token
-          GITHUB_TOKEN: \${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         with:
-          USERNAME: \${{ github.repository_owner }}
-          GITHUB_REPO_NAME: \${{ github.event.repository.name }} 
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_REPO_NAME: ${{ github.event.repository.name }} 
