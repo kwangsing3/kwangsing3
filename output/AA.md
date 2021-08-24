@@ -1,1 +1,0 @@
-{"JavaScript":{"count":89,"color":"#f1e05a"},"Lua":{"count":29,"color":"#000080"},"Go":{"count":36,"color":"#00ADD8"},"C#":{"count":5,"color":"#178600"}}
