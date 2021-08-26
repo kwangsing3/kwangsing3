@@ -22,7 +22,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - uses: kwangsing3/github-profilemd-Generater@master
+      - uses: kwangsing3/github-profilemd-Generater@release
         env: # default use \${{ secrets.GITHUB_TOKEN }}, you can change to your personal access token
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         with:
