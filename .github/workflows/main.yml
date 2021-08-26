@@ -5,9 +5,9 @@ on:
   schedule: # execute every 24 hours
     - cron: '* */24 * * *'
   push:
-    branches: [ main ]
+    branches: [ master ]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
     
   workflow_dispatch:
   # Allows you to run this workflow manually from the Actions tab
