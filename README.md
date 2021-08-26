@@ -31,12 +31,5 @@ ____
 
 Other Details:
 
-   
-<a src="https://github.com/kwangsing3/github-profilemd-Generater">
-    <img src="./output/nord_dark/langcompos.svg"> </img>
-</a>
-<br/>
-
-<a src="https://github.com/kwangsing3/github-profilemd-Generater">
-    <img src="./output/nord_dark/tagsstat.svg"> </img>
-</a>
+[![](/output/nord_dark/langcompos.svg)](https://github.com/kwangsing3/github-profilemd-Generater)
+[![](/output/nord_dark/tagsstat.svg)](https://github.com/kwangsing3/github-profilemd-Generater)
