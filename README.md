@@ -6,12 +6,14 @@
 <br/>
 Contact me:<br/>
 
-![![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kwangsing3@gmail.com)
-![![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kwangsing3/)
+<a src="kwangsing3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </img>
+</a>
+
+<a src="https://github.com/kwangsing3/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </img>
+</a>
 <br/><br/>
-
-
-
 
 
 ___
@@ -34,16 +36,13 @@ Virtual Platform:<br>
 ____
 
 
-<details>
-    <summary> Github Account detail (Dynamic)</summary>
+
+   
 <a src="https://github.com/kwangsing3/github-profilemd-Generater">
     <img src="./output/nord_dark/langcompos.svg"> </img>
 </a>
-</details>
 <br/>
-<details>
-    <summary> Topic Perfer (Dynamic)</summary>
+
 <a src="https://github.com/kwangsing3/github-profilemd-Generater">
     <img src="./output/nord_dark/tagsstat.svg"> </img>
 </a>
-</details>
