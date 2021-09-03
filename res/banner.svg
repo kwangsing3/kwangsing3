@@ -1,0 +1,38 @@
+<svg width="3500" height="1000" xmlns="http://www.w3.org/2000/svg">
+          <title>Layer 1</title>
+        <rect id="svg_4" height="1000" width="3500" y="0" x="0" rx="60" ry="60" stroke-width="0" stroke="#000" fill="#2c3535" />
+        
+        <text
+            transform="rotate(-5,0,0)"
+            font-style="normal"
+            font-weight="normal"
+            xml:space="preserve"
+            text-anchor="start"
+            font-family="Ink Free"
+            font-size="400"
+            id="svg_1"
+            y="68%"
+            x="-35%"
+            stroke-width="0"
+            stroke="#000"
+            fill="#ffffff"
+        >
+            Jon Chiu
+        </text>
+        <text 
+            font-style="normal" 
+            font-weight="normal" 
+            xml:space="preserve" 
+            text-anchor="start" 
+            font-family="sans-serif" 
+            font-size="100" 
+            id="svg_6" 
+            y="80%" 
+            x="34%" 
+            stroke-width="0" 
+            stroke="#000" 
+            fill="#ffffff"
+        >
+            Software Enginer and Game Developer
+        </text>
+</svg>
