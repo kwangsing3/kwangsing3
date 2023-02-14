@@ -4,6 +4,9 @@ name:  Schedule Run
 on:
   schedule: # execute every 24 hours
     - cron: '* */24 * * *'
+  push: 
+    branches: 
+    - main
      
   workflow_dispatch:
   # Allows you to run this workflow manually from the Actions tab
