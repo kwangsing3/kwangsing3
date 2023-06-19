@@ -4,7 +4,7 @@
 
 # Hi🙋‍♂️  Glad to see and welcome anytime :)
 
-###  I'm a Front-end, Back-end Developer who major in Game Develop and always willing to try multiple platforms programming.
+###  I'm a Front-end, Back-end Developer also major in Game Develop and always willing to try multiple platforms programming.
 
 <br/> 
 Contact:
@@ -14,7 +14,7 @@ Contact:
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=4B5160)](https://github.com/kwangsing3/)
 
 ___
-Woring with:<br>
+Working on:<br>
 ![](https://img.shields.io/badge/Windows-0078D6?style=flate&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=flate&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flate&logo=linux&logoColor=black)
