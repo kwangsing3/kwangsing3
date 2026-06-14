@@ -2,8 +2,8 @@
 name:  Schedule Run
 # Controls when the workflow will run
 on:
-  schedule: # execute every 24 hours
-    - cron: '* */24 * * *'
+  schedule: # execute once every day at 00:00 UTC
+    - cron: '0 0 * * *'
   push: 
     branches: 
     - main
@@ -23,7 +23,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: kwangsing3/github-profilemd-Generater@release
         env: # default use \${{ secrets.GITHUB_TOKEN }}, you can change to your personal access token
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
