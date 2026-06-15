@@ -1,4 +1,7 @@
-
+<!-- ====================================================================== -->
+<!-- BLOCK 1 — STATIC / AUTHOR-MAINTAINED                                    -->
+<!-- 此區由作者手動維護，請自由編輯。自動化流程不會更動這個區塊。              -->
+<!-- ====================================================================== -->
 
 ![](/res/banner.svg)
 
@@ -35,3 +38,17 @@ ____
 Github-account details:<br>
 [![](/output/github-profilemd-generater/nord_dark/langcompos.svg)](https://github.com/kwangsing3/github-profilemd-Generater)
 [![](/output/github-profilemd-generater/nord_dark/tagsstat.svg)](https://github.com/kwangsing3/github-profilemd-Generater)
+
+<!-- ====================================================================== -->
+<!-- BLOCK 2 — AUTO-GENERATED INTRO (GitHub model / LLM)                     -->
+<!-- 此區由自動化流程產生，請勿手動編輯。                                      -->
+<!-- 流程會把 START / END 標記「之間」的內容整段替換掉。                        -->
+<!-- ====================================================================== -->
+
+---
+
+## 🤖 About me (auto-generated)
+
+<!-- LLM-INTRO:START -->
+_This section will be generated automatically by an LLM. Stay tuned._
+<!-- LLM-INTRO:END -->
